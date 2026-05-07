@@ -13,15 +13,6 @@ A real-time, bilingual (Arabic & English) **"Do You Know Your Friend?"** multipl
 - 🔄 **Replay options**: Same roles, flip roles, or leave
 - 🌐 **Bilingual**: Interface in English, questions in both Arabic & English
 
-## Setup
-
-```bash
-npm install
-npm start
-```
-
-Open http://localhost:3000
-
 ## How to Play
 
 1. **Player 1** enters their name → clicks **Create a Room** → shares the 6-character code
